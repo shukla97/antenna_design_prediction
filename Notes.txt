@@ -1,0 +1,18 @@
+NOTES
+-----------------------------------------------------------
+
+The S11 output and bandwidth are dependent on Width, Epsilon and Substrate Height.
+
+Also, the feed point defines the impedance on the patch. The more close the impedance of patch on that point is to the impedance of cable, the stronger is S11 parameter.
+
+There are no other such parameters that needs to be considered.
+
+Epsilon and SH defines the substrate material and its properties. Epsilon is the permeability of the material, and SH is the Substrate Height.
+
+W and L are the Width and Length of rectangular antenna design.
+
+FPW and FPL are the coordinate location of feeding point in terms of width and length respectively, considering origin at one corner.
+
+S11 and OOF are the return loss and output frequency band at which the antenna is observed to be operating.
+
+Bandwidth is the +3dB gain in the frequency band.
