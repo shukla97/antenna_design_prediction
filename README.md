@@ -2,7 +2,7 @@
 
 Using Machine learning approach to predict design of single patch antenna
 
-Total molecules :- 99
+Total observations :- 99
 
 Language used :- R
 
